@@ -1,1 +1,1 @@
-echo "Hello automatically from Github"
+echo "Hello automatically from Github(2)"
